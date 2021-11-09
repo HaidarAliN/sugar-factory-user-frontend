@@ -64,7 +64,6 @@ expo start
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [React Native]: <https://reactnative.dev/>
-   [Firebase]: <https://firebase.google.com/>
    [Laravel Web Server]: <https://github.com/HaidarAliN/sugar-factory-server.git>
    [Laravel]: <https://laravel.com/>
    [Expo Cli QuickStart]: <https://reactnative.dev/docs/environment-setup>
